@@ -2,7 +2,7 @@
 
 # Assassin's Creed Black Flag Resynced: Collector's Edition Resource
 
-[![Stars](https://img.shields.io/github/stars/aresthehacker/Assassin-s-Creed-Black-Flag)](https://github.com/aresthehacker/Assassin-s-Creed-Black-Flag) [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![Stars](https://img.shields.io/github/stars/aresthehacker/Assassin-s-Creed-Black-Flag)](https://github.com/aresthehacker/Assassin-s-Creed-Black-Flag) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **Assassin's Creed Black Flag Resynced** is a comprehensive technical overhaul of the classic pirate adventure, officially launching. This Collector's Edition resource provides a specialized environment for managing next-generation Anvil Engine assets, ray-tracing configurations, and the newly rebuilt combat system. Engineered for high-performance Windows systems and PS5 Pro (PSSR) environments, it includes digital metadata for the physical Edward Kenway figurine and the exclusive 2026 narrative expansions.
 Experience the Golden Age of Piracy with 2026 standards: featuring seamless naval transitions, AI-enhanced stealth mechanics, and zero-latency synchronization for the ultimate open-world Caribbean experience.
